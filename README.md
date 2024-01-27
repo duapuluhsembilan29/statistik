@@ -9,8 +9,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=duapuluhsembilan29&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 😂 Random Meme
-<img src='![image](https://github.com/duapuluhsembilan29/statistik/assets/99939707/e753b962-4d8b-4ae0-97e6-beab47a25e89)
-' style="height: 400px;"/>
+<img src='https://i.imgflip.com/mf6og.jpg' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=duapuluhsembilan29&icon=0&color=0)](https://visitcount.itsvg.in)
